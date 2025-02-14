@@ -6,19 +6,19 @@ const projectList = [
         title: "Staycation - Vacation booking platform",
         description: "A user-friendly platform for booking vacations with seamless search and reservation features.",
         technologies: ["HTML", "CSS", "Node.Js", "Express.Js", "MongoDB", "JavaScript"],
-        image: "/src/assets/projects/staycation.jpg"
+        image: "https://pageflows.com/media/videos/thumbnail_c255de9b-910b-42dd-a639-1917027e0504.jpg"
     },
     {
         title: "Smart Task Manager",
         description: "A React-based smart task management tool focused on enhancing productivity.",
         technologies: ["React", "Tailwind CSS", "API's", "MongoDB", "Node.Js"],
-        image: "/src/assets/projects/taskmanager1.png"
+        image: "https://images.prismic.io/smarttask/ZvpFBrVsGrYSwHgT_image14.png?auto=format,compress"
     },
     {
         title: "Mini-Whatsapp",
         description: "A real-time chat application built using MERN stack for instant messaging.",
         technologies: ["API's", "MongoDB", "Node.Js", "HTML", "CSS"],
-        image: "/src/assets/projects/miniwhatsapp.jpg"
+        image: "https://i.ytimg.com/vi/yx7pWzOqQHE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG2CIAC0AWKAgwIABABGB4gcigUMA8=&rs=AOn4CLBKSbb1VGERe3E4Ff9geqTtqBjMew"
     }
 ];
 
